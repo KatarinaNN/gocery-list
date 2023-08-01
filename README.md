@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Grocery list
+Application for create and complete shopping grocery list.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+The application was created to learn the React Class Components in order to have the necessary knowledge base to learn Redux.
 
-## Available Scripts
+# License
+This project can be used for educational purposes.
+
+# Installation
+Use the GitHub link []
 
 In the project directory, you can run:
 
